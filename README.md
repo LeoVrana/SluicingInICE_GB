@@ -5,4 +5,5 @@ http://www.ucl.ac.uk/english-usage/projects/ice-gb/
 
 Also included are the Perl scripts with the regular expressions used to extract sluicing structures.
 
-Any questions or comments should be directed to leo.vrana@uni-konstanz.de
+Any questions or comments should be directed to leovrana@gmail.com
+
